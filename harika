@@ -1,0 +1,77 @@
+# harikaT
+GPT
+
+I tell about my self please listen
+Of course, I would love to hear more about you. Please go ahead and share about yourself.
+My name is Harika,my phone number 8074144087,my e-mail id harikat755@gmail.com,I was born in srikakulam my education details I completed my tenth with 98per in K.G.B.V singupuram 2021 passout, complete inter with 77per in K.G.B.V Junior collage in singupuram 2023 passout,studied B.TECH second year in vishaka institute of engineering and technology
+
+
+Thank you for sharing your information, Harika. If you have any specific questions or need assistance with anything, feel free to let me know.
+I learn C,Java, Python
+
+That's great! Learning multiple programming languages can be very beneficial in expanding your skills and knowledge in the field of programming. Each language has its own strengths and weaknesses, so being proficient in multiple languages can make you a more versatile and well-rounded programmer. Keep up the good work!
+Create a single code for html and css for portfolio website
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Portfolio</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f0f0f0;
+}
+header {
+background-color: #333;
+color: #fff;
+text-align: center;
+padding: 10px 0;
+}
+.container {
+max-width: 800px;
+margin: 20px auto;
+padding: 20px;
+background-color: #fff;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.project {
+margin-bottom: 20px;
+padding: 10px;
+background-color: #f9f9f9;
+border-radius: 5px;
+}
+.project img {
+max-width: 100%;
+border-radius: 5px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>My Portfolio</h1>
+</header>
+<div class="container">
+<div class="project">
+<h2>Project 1</h2>
+<img src="project1.jpg" alt="Project 1">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+<div class="project">
+<h2>Project 2</h2>
+<img src="project2.jpg" alt="Project 2">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+<div class="project">
+<h2>Project 3</h2>
+<img src="project3.jpg" alt="Project 3">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+</div>
+</body>
+</html>
